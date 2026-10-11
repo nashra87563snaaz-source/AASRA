@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AASRA</string>
+    <string name="app_tagline">Your Safety, Our Priority</string>
+    <string name="sos_button_label">SOS EMERGENCY</string>
+    <string name="sos_press_instruction">Tap or press physical band for instant emergency alert</string>
+    <string name="hardware_band_connected">AASRA Band: Connected</string>
+    <string name="hardware_band_disconnected">AASRA Band: Disconnected</string>
+    <string name="gps_status_active">GPS: High Accuracy</string>
+    <string name="gps_status_searching">GPS: Acquiring Fix…</string>
+    <string name="emergency_contacts_title">Emergency Contacts</string>
+    <string name="volunteer_network_title">Volunteer Assistance</string>
+    <string name="admin_portal_title">AASRA Admin Console</string>
+</resources>

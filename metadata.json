@@ -1,0 +1,6 @@
+{
+  "name": "AASRA",
+  "description": "Smart Personal Safety and Emergency Response System with physical SOS band integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
